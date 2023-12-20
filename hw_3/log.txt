@@ -1,0 +1,15 @@
+2023-12-30 18:05:12 INFO ====== WebDriver manager ======
+2023-12-30 18:05:12 INFO Get LATEST chromedriver version for google-chrome
+2023-12-30 18:05:12 INFO Get LATEST chromedriver version for google-chrome
+2023-12-30 18:05:12 INFO Driver [/Users/apple/.wdm/drivers/chromedriver/mac64/120.0.6099.109/chromedriver-mac-x64/chromedriver] found in cache
+2023-12-30 18:05:15 INFO Test add_post Starting
+2023-12-30 18:05:15 INFO Send 'auf' to element //*[@id="login"]/div[1]/label/input
+2023-12-30 18:05:16 INFO Send '25f088fd21' to element //*[@id="login"]/div[2]/label/input
+2023-12-30 18:05:16 INFO Click login button
+2023-12-30 18:05:16 INFO Click contact button
+2023-12-30 18:05:18 INFO Send 'Denden' to element //*[@id="contact"]/div[1]/label/input
+2023-12-30 18:05:18 INFO Send 'enden.@bk.ru' to element //*[@id = "contact"]/div[2]/label/input
+2023-12-30 18:05:18 INFO Send 'One of them has interesting and useful things to say, but can not get their point across. In that case, you need an interpreter.' to element //*[@id = "contact"]/div[3]/label/span/textarea
+2023-12-30 18:05:19 INFO Click contact us button
+2023-12-30 18:05:20 INFO Get alert message
+2023-12-30 18:05:20 INFO Alert message is Form successfully submitted

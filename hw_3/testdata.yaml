@@ -1,0 +1,17 @@
+address: https://test-stand.gb.ru/
+driver_path: /Users/apple/PycharmProjects/selenium/chromedriver
+sleep_time: 3
+
+browser: Chrome
+
+login: auf
+password: 25f088fd21
+
+
+title: ADD NEW POST FOR HW _2
+description: Python – один из самых популярных языков для веб-автоматизации с Selenium, поскольку в нем есть упрощенный синтаксис, который позволяет выполнять больше задач за меньшее
+content: Начнем с того, что Selenium – это открытый фреймворк, который в основном используется для автоматизации взаимодействия с веб-элементами в AUT (Application Under Test). Наряду с Python, Selenium также поддерживает Java, C#, JavaScript, Ruby и PHP. Однако, по своему опыту скажу, что Python – лучший вариант для веб-автоматизации
+
+u_name: Denden
+u_email: enden.@bk.ru
+content_contact: One of them has interesting and useful things to say, but can not get their point across. In that case, you need an interpreter.
