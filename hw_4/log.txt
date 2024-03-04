@@ -1,0 +1,13 @@
+2024-02-21 20:06:49 INFO ====== WebDriver manager ======
+2024-02-21 20:06:49 INFO Get LATEST chromedriver version for google-chrome
+2024-02-21 20:06:49 INFO Get LATEST chromedriver version for google-chrome
+2024-02-21 20:06:49 INFO There is no [mac64] chromedriver "121.0.6167.184" for browser google-chrome "121.0.6167" in cache
+2024-02-21 20:06:49 INFO Get LATEST chromedriver version for google-chrome
+2024-02-21 20:06:50 INFO WebDriver version 121.0.6167.184 selected
+2024-02-21 20:06:50 INFO Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/121.0.6167.184/mac-x64/chromedriver-mac-x64.zip
+2024-02-21 20:06:50 INFO About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/121.0.6167.184/mac-x64/chromedriver-mac-x64.zip
+2024-02-21 20:06:50 INFO Driver downloading response is 200
+2024-02-21 20:06:51 INFO Get LATEST chromedriver version for google-chrome
+2024-02-21 20:06:52 INFO Driver has been saved in cache [/Users/apple/.wdm/drivers/chromedriver/mac64/121.0.6167.184]
+2024-02-21 20:06:54 INFO Test login_negative Starting
+2024-02-21 20:06:56 INFO Test add_post Starting
